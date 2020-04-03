@@ -7,12 +7,4 @@ describe('<Footer/>', () => {
   test('Render del Componente Footer', () => {
     expect(footer.length).toEqual(1);
   });
-  test('Render del Título', () => {
-    expect(
-      footer
-        .find('footer')
-        .text()
-        .toEqual('')
-    );
-  });
 });

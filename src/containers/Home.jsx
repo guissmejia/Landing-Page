@@ -14,8 +14,7 @@ const Home = () => {
           <h3>
             Lorem ipsum dolor sit amet, actetur adipiscing elit.
             <br />
-            Aenean 
-            {' '}
+            Aenean
             <span>dolor</span>
             nisi.
           </h3>
