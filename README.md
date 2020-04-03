@@ -2,7 +2,7 @@
 
 This is a landing page created with technologies like React.js and the css preprocessor, Stylus, 100% responsive.
 
-Cuenta con pruebas de Unit Testing con Jest, las cuales se encuentran en la rama "test"
+It has Unit Testing tests with Jest, which are found in the "test" branch
 
 ## Installation
 
